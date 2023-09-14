@@ -1,1 +1,158 @@
 *{margin:0;padding:0;}
+
+.title{border:3px solid rgb(113, 114, 133);
+    background-color:rgb(199, 199, 209);
+    color: rgb(50, 50, 222);font-size:18pt;}
+
+body{background-image:url('../media/images/Michael_Jackson_Silhouettes_tn__61409_std.png');
+    background-position:center;}
+
+.bio{background-color: rgb(237, 141, 7);
+    position:absolute;
+    top:250px;left:30px;
+    transform:translate(0,-40%);
+    padding:10px;
+    width:500px;
+    height:auto;
+    font-size:18pt;
+    font-family:monospace;}
+
+ .discography{background-color: rgb(237, 141, 7);
+    position:absolute;
+    top:470px;
+    transform:translate(0,-40%);
+    font-size:14pt;
+    font-family:fantasy;}
+    
+.album1{background-color: rgb(209, 90, 5);
+    position:absolute;
+    top:600px;left:180px;
+    transform:translate(0,-40%);
+    padding:10px;
+    width:500px;
+    height:auto;
+    font-size:14pt;
+    font-family:'Franklin Gothic Medium';}
+.album2{background-color: rgb(209, 90, 5);
+    position:absolute;
+    top:750px;left:180px;
+    transform:translate(0,-40%);
+    padding:10px;
+    width:500px;
+    height:auto;
+    font-size:14pt;
+    font-family:'Franklin Gothic Medium';}  
+.album5{background-color: rgb(209, 90, 5);
+    position:absolute;
+    top:900px;left:180px;
+    transform:translate(0,-40%);
+    padding:10px;
+    width:500px;
+    height:auto;
+    font-size:14pt;
+    font-family:'Franklin Gothic Medium';}
+.album6{background-color: rgb(209, 90, 5);
+    position:absolute;
+    top:1060px;left:180px;
+    transform:translate(0,-40%);
+    padding:10px;
+    width:500px;
+    height:auto;
+    font-size:14pt;
+    font-family:'Franklin Gothic Medium';}
+.album7{background-color: rgb(209, 90, 5);
+    position:absolute;
+    top:1230px;left:180px;
+    transform:translate(0,-40%);
+    padding:10px;
+    width:500px;
+    height:auto;
+    font-size:14pt;
+    font-family:'Franklin Gothic Medium';}
+.album8{background-color: rgb(209, 90, 5);
+    position:absolute;
+    top:1390px;left:180px;
+    transform:translate(0,-40%);
+    padding:10px;
+    width:500px;
+    height:auto;
+    font-size:14pt;
+    font-family:'Franklin Gothic Medium';}
+.album9{background-color: rgb(209, 90, 5);
+    position:absolute;
+    top:1540px;left:180px;
+    transform:translate(0,-40%);
+    padding:10px;
+    width:500px;
+    height:auto;
+    font-size:14pt;
+    font-family:'Franklin Gothic Medium';}
+.album10{background-color: rgb(209, 90, 5);
+    position:absolute;
+    top:1680px;left:180px;
+    transform:translate(0,-40%);
+    padding:10px;
+    width:500px;
+    height:auto;
+    font-size:14pt;
+    font-family:'Franklin Gothic Medium';}
+
+.player1{width:20%;top:560px;left:900px;position: absolute;}
+.player2{width:20%;top:720px;left:900px;position: absolute;}
+.player5{width:20%;top:860px;left:900px;position: absolute;}
+.player6{width:20%;top:1010px;left:900px;position: absolute;}
+.player7{width:20%;top:1190px;left:900px;position: absolute;}
+.player8{width:20%;top:1350px;left:900px;position: absolute;}
+.player9{width:20%;top:1510px;left:900px;position: absolute;}
+.player10{width:20%;top:1650px;left:900px;position: absolute;}
+
+.cover1{width:100px;
+    height:auto;
+    top:560px;
+    left: 755px;} 
+.cover2{width:100px;
+    height:auto;
+    top:715px;
+    left: 755px;}
+.cover5{width:100px;
+    height:auto;
+    top:860px;
+    left: 755px;}
+.cover6{width:100px;
+    height:auto;
+    top:1010px;
+    left: 755px;}
+.cover7{width:100px;
+    height:auto;
+    top:1190px;
+    left: 755px;}
+.cover8{width:100px;
+    height:auto;
+    top:1350px;
+    left: 755px;}
+.cover9{width:100px;
+    height:auto;
+    top:1505px;
+    left: 755px;}
+.cover10{width:100px;
+    height:auto;
+    top:1640px;
+    left: 755px;}
+
+img{width:500px;height:auto;
+    position:absolute;top:100px;left:600px;}
+
+/* .move{width:500px;height:auto;} */
+
+
+
+/* video{display:block;border:5px dotted pink;} */
+/* audio{display:block;} */
+/* .click{background-color: rgb(156, 100, 209);
+    border:none;
+    color:azure;
+    padding:15px ;
+    font-size: 16px;}
+
+.click:hover{background-color: rgb(79, 218, 218);
+cursor:pointer;} */
